@@ -4,5 +4,13 @@
   "description": "EOSChange protocol contracts",
   "tests": "./test",
   "migrations": "./migrate",
-  "contracts": {}
+  "contracts": {
+    "exchange": {
+      "name": "exchange",
+      "version": "0.0.1.1",
+      "description": "Exchange assets contract",
+      "entry": "exchange.cpp",
+      "checksum": "6c60c9d2a45d94d0ec1c83503d4528"
+    }
+  }
 }
