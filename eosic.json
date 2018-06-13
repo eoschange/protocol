@@ -1,0 +1,8 @@
+{
+  "name": "protocol",
+  "version": "0.0.1",
+  "description": "EOSChange protocol contracts",
+  "tests": "./test",
+  "migrations": "./migrate",
+  "contracts": {}
+}
